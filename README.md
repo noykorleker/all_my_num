@@ -86,7 +86,7 @@ This project is open-source under the MIT License.
 ---
 
 ## Author
-Developed by [noy korleker].
+Developed by noy korleker.
 
 ---
 
